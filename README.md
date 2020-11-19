@@ -9,7 +9,7 @@ Each one of these is a different element in your equation.
 The order of these doesn't matter as long as you are consistant.
 
 There are four variables for each var section.
-These are the position in the equation there are left to right.
+These are the position in the equation from left to right.
 
 Then there are the co variables.
 co is short for Coffient they are in order left to right with co1 being the left most.
